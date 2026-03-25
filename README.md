@@ -2,7 +2,7 @@
 
 
 🔍 Project Overview
-This project focuses on analyzing fleet operations using Power BI to optimize cost, efficiency, and overall performance. The dashboard provides actionable insights into fuel consumption, cost per kilometer, vehicle utilization, and operational efficiency. It project simulates real-world fleet optimization scenarios using data analytics techniques.
+This project focuses on analyzing fleet operations using Power BI to optimize cost, efficiency, and overall performance. The dashboard provides actionable insights into fuel consumption, cost per kilometer, vehicle utilization, and operational efficiency. This project simulates real-world fleet optimization scenarios using data analytics techniques.
 
 
 🎯 Objectives
