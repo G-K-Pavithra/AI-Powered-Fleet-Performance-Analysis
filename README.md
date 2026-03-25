@@ -29,6 +29,8 @@ Fuel consumption
 Cost metrics
 📸 Dashboard Preview
 <img width="895" height="519" alt="image" src="https://github.com/user-attachments/assets/cdf2bfc5-6689-4bb5-b5e1-2e7a74846014" />
+
+
 📌 Key Insights
 Identified high-cost vehicles
 Improved cost per km visibility
